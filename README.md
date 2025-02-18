@@ -51,7 +51,7 @@ Este sistema permite la gestión integral de animales dentro de una única finca
 
 ---
 
-## **Requisitos Técnicos**  
+## **Tegnologias**  
 - Lenguaje de programación: C#
 - Base de datos: Postgres
 - IDE recomendado: Visual Studio
