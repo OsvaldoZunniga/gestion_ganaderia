@@ -51,8 +51,10 @@ Este sistema permite la gestión integral de animales dentro de una única finca
 
 ---
 
-## **Tegnologias**  
-- Lenguaje de programación: C#
+## **Tegnologias Utilizadas**  
+- C#
+- Windows Forms
+- .NET Framework
 - Base de datos: Postgres
 - IDE recomendado: Visual Studio
 
