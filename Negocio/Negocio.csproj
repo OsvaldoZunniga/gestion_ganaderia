@@ -41,8 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NegocioGanado.cs" />
+    <Compile Include="NegocioAjustes.cs" />
+    <Compile Include="NegocioReportes.cs" />
+    <Compile Include="NegocioVacunas.cs" />
+    <Compile Include="NegocioAnimales.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{3237a0c4-c70a-4952-a9cc-2b48cddb62e1}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Objetos\Objetos.csproj">
+      <Project>{31af282f-a3a9-412f-b7ad-bc4402989d97}</Project>
+      <Name>Objetos</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

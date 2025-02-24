@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3237A0C4-C70A-4952-A9CC-2B48CDDB62E1}|Datos\\Datos.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\proyecto personal\\gestion_ganaderia\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3237A0C4-C70A-4952-A9CC-2B48CDDB62E1}|Datos\\Datos.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31AF282F-A3A9-412F-B7AD-BC4402989D97}|Objetos\\Objetos.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\proyecto personal\\gestion_ganaderia\\objetos\\objganado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31AF282F-A3A9-412F-B7AD-BC4402989D97}|Objetos\\Objetos.csproj|solutionrelative:objetos\\objganado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1ABDCBB-A6C1-433C-9176-CC2BD7884DD1}|Negocio\\Negocio.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\proyecto personal\\gestion_ganaderia\\negocio\\negocioganado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ABDCBB-A6C1-433C-9176-CC2BD7884DD1}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocioganado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A65BB783-59BD-4E2A-BEC0-F9FE2AFD9797}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\proyecto personal\\gestion_ganaderia\\presentacion\\forms\\frmanimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A65BB783-59BD-4E2A-BEC0-F9FE2AFD9797}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\forms\\frmanimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A65BB783-59BD-4E2A-BEC0-F9FE2AFD9797}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\proyecto personal\\gestion_ganaderia\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A65BB783-59BD-4E2A-BEC0-F9FE2AFD9797}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BB783-59BD-4E2A-BEC0-F9FE2AFD9797}|Presentacion\\Presentacion.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\proyecto personal\\gestion_ganaderia\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BB783-59BD-4E2A-BEC0-F9FE2AFD9797}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +22,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Datos\\Conexion.cs",
-              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Datos\\Conexion.cs",
-              "RelativeToolTip": "Datos\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FrmAnimales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Presentacion\\Forms\\FrmAnimales.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Forms\\FrmAnimales.cs",
+              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Presentacion\\Forms\\FrmAnimales.cs [Design]",
+              "RelativeToolTip": "Presentacion\\Forms\\FrmAnimales.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T14:42:04.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T07:59:23.02Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ObjGanado.cs",
-              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Objetos\\ObjGanado.cs",
-              "RelativeDocumentMoniker": "Objetos\\ObjGanado.cs",
-              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Objetos\\ObjGanado.cs",
-              "RelativeToolTip": "Objetos\\ObjGanado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T14:41:47.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NegocioGanado.cs",
-              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Negocio\\NegocioGanado.cs",
-              "RelativeDocumentMoniker": "Negocio\\NegocioGanado.cs",
-              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Negocio\\NegocioGanado.cs",
-              "RelativeToolTip": "Negocio\\NegocioGanado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T14:41:32.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Presentacion\\Form1.cs",
               "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
@@ -78,6 +59,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T14:40:14.543Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\Proyecto personal\\gestion_ganaderia\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:34:13.852Z",
+              "EditorCaption": ""
             }
           ]
         }

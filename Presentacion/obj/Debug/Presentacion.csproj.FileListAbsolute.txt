@@ -1,0 +1,12 @@
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.Forms.FrmAnimales.resources
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Presentacion\obj\Debug\Presentacion.Forms.FrmBanner.resources

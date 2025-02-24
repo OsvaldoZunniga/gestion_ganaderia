@@ -1,0 +1,32 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de compilación y dependencias
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# Configuración de Visual Studio
+*.suo
+*.user
+*.vcxproj.user
+*.csproj.user
+.vscode/
+
+# Archivos de bases de datos PostgreSQL
+*.pgsql
+*.backup
+*.dump
+
+# Configuraciones sensibles
+.env
+appsettings.json
+appsettings.Development.json
+config.json
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.cache
