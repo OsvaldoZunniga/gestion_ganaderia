@@ -1,0 +1,13 @@
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\bin\Debug\Datos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\bin\Debug\Datos.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\bin\Debug\Npgsql.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\bin\Debug\Objetos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\bin\Debug\Objetos.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\bin\Debug\Npgsql.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\bin\Debug\Npgsql.xml
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\obj\Debug\Datos.dll
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\Proyecto personal\gestion_ganaderia\Datos\obj\Debug\Datos.pdb
